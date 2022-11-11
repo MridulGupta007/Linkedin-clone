@@ -1,4 +1,4 @@
-const signupForm = document.querySelector('.main__form');
+const signupForm = document.querySelector('.sign-up');
 const emailInput = document.getElementById('email');
 const passwordInput = document.getElementById('password');
 const table = document.getElementById('table');
